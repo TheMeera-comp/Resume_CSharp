@@ -1,0 +1,15 @@
+﻿.par1 {
+    background-color: #5B856D;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+
+.par2 {
+    list-style-type: square;
+    background-color: #5B856D;
+    color: white;
+    text-align: left;
+    
+}
